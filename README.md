@@ -17,6 +17,8 @@ Track your stocks in real-time, visualize your portfolio allocation, and see tot
 - Line chart: tracks total portfolio value over time
 - Fully embedded GUI using Tkinter
 
+![Image 11-29-25 at 14 17](https://github.com/user-attachments/assets/c969fdc5-dd68-474e-bf91-4b89d3dd531e)
+
 
 ## Installation
 
@@ -33,4 +35,3 @@ source venv/bin/activate
 pip install yfinance pandas matplotlib
 python portfolio_gui.py
 
-![Image 11-29-25 at 14 17](https://github.com/user-attachments/assets/8dbcbd3a-9b75-47ca-a378-405ecc013ebe)
