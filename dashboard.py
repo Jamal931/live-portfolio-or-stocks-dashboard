@@ -200,6 +200,6 @@ if __name__ == "__main__":
         shares=shares_outstanding
     )
     
-    # You can also value other companies by adjusting inputs:
+    # you can also value other companies by adjusting inputs like:
     # apple = DCFValuation(company_name="Apple", fcf_base=110000)
     # tesla = DCFValuation(company_name="Tesla", fcf_base=13000)
